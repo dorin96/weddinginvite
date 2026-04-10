@@ -501,7 +501,23 @@ h1 {
   margin: 12px 0 4px;
 }
 
+.invite-godparents {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.05rem;
+  color: var(--text-soft);
+  margin: 12px 0 4px;
+}
+
 .parents-names {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 0.95rem;
+  color: var(--sage);
+  font-style: italic;
+  margin: 0 0 20px 0;
+  letter-spacing: 0.02em;
+}
+
+.godparents-names {
   font-family: 'Cormorant Garamond', serif;
   font-size: 0.95rem;
   color: var(--sage);
